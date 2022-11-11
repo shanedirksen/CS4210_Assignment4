@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Shane Dirksen
 # FILENAME: perceptron.py
-# SPECIFICATION: A simple program that....
+# SPECIFICATION: A simple program that cycles through different parameters of perceptron models and tests which one has the highest accuracy
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: 3 hours
+# TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
